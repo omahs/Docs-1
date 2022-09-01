@@ -34,6 +34,6 @@ The same patterns shown here can be used for any of Zapper's [supported platform
 ## API Support 
 
 {% hint style="info" %}
-For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://discord.com/invite/5C4wxPr).
+For any API related inquiries, please reach out in the **`build-on-zapper`** channel in our [Discord](https://zapper.fi/discord).
 {% endhint %}
 
