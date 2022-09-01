@@ -15,6 +15,6 @@
    Get paid for reporting Zapper related bugs 
 
 {% hint style="info" %}
-If you have questions or would like to learn more to about Zapper feel free to join our [Discord](https://discord.com/invite/5C4wxPr)
+If you have questions or would like to learn more to about Zapper feel free to join our [Discord](https://zapper.fi/discord)
 {% endhint %}
 
